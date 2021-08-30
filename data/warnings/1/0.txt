@@ -1,0 +1,42 @@
+2021-08-26 16:25:33.411 : ConfigReceiver : Initialized reverse communication!
+2021-08-26 16:25:33.588 : SpanTask : Question: ( 2 + 5 ) × 4 = 31 isTrue: 0
+2021-08-26 16:25:35.290 : WalkPedestrian : Tile 0 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:25:35.917 : WalkPedestrian : Tile 0 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:25:38.534 : WalkPedestrian : Tile 0 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:25:39.830 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:25:41.403 : WalkPedestrian : Tile 1 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:25:41.795 : WalkPedestrian : Tile 1 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:25:45.938 : WalkPedestrian : Tile 1 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:25:46.597 : OwnOnGaze : Tile 1 Hazard RollingWheel got Deactivated by Gaze
+2021-08-26 16:25:46.944 : ReactionTimeLogger : Reaction time between entering RollingWheel takeover Area and user intervention was 2716.911 ms
+2021-08-26 16:25:46.944 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:25:46.944 : ReactionTimeLogger : Reaction time between entering RollingWheel hazard Area and user intervention was 2716.72 ms
+2021-08-26 16:25:47.613 : WalkPedestrian : Tile 2 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:25:56.271 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:26:00.426 : WalkPedestrian : Tile 3 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:26:00.804 : WalkPedestrian : Tile 3 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:26:01.844 : WalkPedestrian : Tile 3 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:26:02.030 : OwnOnGaze : Tile 3 Hazard Ball got Deactivated by Gaze
+2021-08-26 16:26:02.737 : ReactionTimeLogger : Reaction time between entering Ball takeover Area and user intervention was 3249.266 ms
+2021-08-26 16:26:02.737 : ReactionTimeLogger : Reaction time between entering Ball hazard Area and user intervention was 3249.358 ms
+2021-08-26 16:26:02.737 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:26:04.935 : WalkPedestrian : Tile 3 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:26:05.546 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:26:08.583 : WalkPedestrian : Tile 4 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:26:12.425 : WalkPedestrian : Tile 5 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:26:12.469 : SimpleCarController : Span next pressed
+2021-08-26 16:26:12.471 : SpanTask : Consonant: c
+2021-08-26 16:26:13.469 : SpanTask : Question: ( 4 - 3 ) × 3 = 6 isTrue: 0
+2021-08-26 16:26:15.475 : WalkPedestrian : Tile 5 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:26:15.600 : WalkPedestrian : Tile 5 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:26:16.202 : OwnOnGaze : Tile 5 Hazard Bus got Deactivated by Gaze
+2021-08-26 16:26:16.749 : ReactionTimeLogger : Reaction time between entering Bus takeover Area and user intervention was 2595.545 ms
+2021-08-26 16:26:16.749 : ReactionTimeLogger : Reaction time between entering Bus hazard Area and user intervention was 2595.015 ms
+2021-08-26 16:26:16.749 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:26:22.465 : WalkPedestrian : Tile 6 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:26:23.196 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:26:25.705 : SimpleCarController : Span next pressed
+2021-08-26 16:26:25.708 : SpanTask : Consonant: c
+2021-08-26 16:26:26.725 : SpanTask : Question: ( 8 + 8 ) × 4 = 64 isTrue: 1
+2021-08-26 16:26:33.280 : EndCollider : Condition ended
+2021-08-26 16:26:33.321 : SimpleCarController : AppQuit triggered

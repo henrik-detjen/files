@@ -1,0 +1,385 @@
+2021-08-26 16:31:23.343 : ConfigReceiver : Initialized reverse communication!
+2021-08-26 16:31:24.484 : SpanTask : Question: ( 9 + 5 ) × 1 = 15 isTrue: 0
+2021-08-26 16:31:24.485 : WalkPedestrian : Tile 0 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:31:27.951 : WalkPedestrian : Tile 0 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:31:29.493 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:31:34.913 : SimpleCarController : Span next pressed
+2021-08-26 16:31:34.919 : SpanTask : Consonant: j
+2021-08-26 16:31:35.923 : SpanTask : Question: ( 7 - 1 ) × 4 = 21 isTrue: 0
+2021-08-26 16:31:36.181 : WalkPedestrian : Tile 2 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:31:38.992 : WalkPedestrian : Tile 2 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:31:39.034 : WalkPedestrian : Tile 2 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:31:40.487 : SimpleCarController : Span next pressed
+2021-08-26 16:31:40.499 : SpanTask : Consonant: v
+2021-08-26 16:31:41.512 : SpanTask : Question: ( 6 + 9 ) × 2 = 28 isTrue: 0
+2021-08-26 16:31:43.450 : WalkPedestrian : Tile 3 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:31:45.662 : WalkPedestrian : Tile 3 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:31:46.708 : WalkPedestrian : Tile 3 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:31:49.302 : SimpleCarController : Span next pressed
+2021-08-26 16:31:49.310 : SpanTask : Consonant: l
+2021-08-26 16:31:50.328 : SpanTask : Question: ( 3 - 2 ) × 5 = 5 isTrue: 1
+2021-08-26 16:31:51.247 : WalkPedestrian : Tile 4 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:31:54.069 : WalkPedestrian : Tile 4 Pedestrian Left 2 got Deactivated by Gaze
+2021-08-26 16:31:54.149 : WalkPedestrian : Tile 4 Pedestrian Left 3 got Deactivated by Gaze
+2021-08-26 16:31:56.494 : WalkPedestrian : Tile 5 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:31:56.494 : WalkPedestrian : Tile 4 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:31:57.388 : SimpleCarController : Span next pressed
+2021-08-26 16:31:57.403 : SpanTask : Consonant: x
+2021-08-26 16:31:58.404 : SpanTask : Question: ( 8 + 3 ) × 2 = 21 isTrue: 0
+2021-08-26 16:32:03.999 : OwnOnGaze : Tile 6 Hazard Ball got Deactivated by Gaze
+2021-08-26 16:32:05.838 : ReactionTimeLogger : Reaction time between entering Ball takeover Area and user intervention was 2672.082 ms
+2021-08-26 16:32:05.838 : ReactionTimeLogger : Reaction time between entering Ball hazard Area and user intervention was 2671.879 ms
+2021-08-26 16:32:05.838 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:32:06.543 : WalkPedestrian : Tile 6 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:32:09.127 : WalkPedestrian : Tile 7 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:32:09.148 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:32:10.129 : WalkPedestrian : Tile 7 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:32:11.755 : WalkPedestrian : Tile 7 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:32:13.961 : SimpleCarController : Span next pressed
+2021-08-26 16:32:13.975 : SpanTask : Consonant: n
+2021-08-26 16:32:14.989 : SpanTask : Please repeat the last 5 consonants:  j v l x n
+2021-08-26 16:32:20.498 : WalkPedestrian : Tile 8 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:32:22.170 : WalkPedestrian : Tile 9 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:32:22.868 : WalkPedestrian : Tile 9 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:32:22.868 : WalkPedestrian : Tile 9 Pedestrian Right 3 got Deactivated by Gaze
+2021-08-26 16:32:25.549 : WalkPedestrian : Tile 9 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:32:28.574 : WalkPedestrian : Tile 10 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:32:29.105 : WalkPedestrian : Tile 10 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:32:31.182 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:32:32.685 : SimpleCarController : Span next pressed
+2021-08-26 16:32:32.696 : SpanTask : Question: ( 6 + 3 ) × 5 = 45 isTrue: 1
+2021-08-26 16:32:35.033 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:32:40.981 : WalkPedestrian : Tile 12 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:32:41.304 : WalkPedestrian : Tile 12 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:32:41.450 : SimpleCarController : Span next pressed
+2021-08-26 16:32:41.468 : SpanTask : Consonant: v
+2021-08-26 16:32:42.470 : SpanTask : Question: ( 8 + 3 ) × 2 = 21 isTrue: 0
+2021-08-26 16:32:44.057 : WalkPedestrian : Tile 12 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:32:48.630 : SimpleCarController : Span next pressed
+2021-08-26 16:32:48.652 : SpanTask : Consonant: n
+2021-08-26 16:32:49.668 : SpanTask : Question: ( 8 + 1 ) × 3 = 24 isTrue: 0
+2021-08-26 16:32:53.109 : WalkPedestrian : Tile 14 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:32:54.674 : WalkPedestrian : Tile 14 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:32:55.462 : OwnOnGaze : Tile 14 Hazard Ball got Deactivated by Gaze
+2021-08-26 16:32:55.622 : WalkPedestrian : Tile 14 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:32:55.754 : WalkPedestrian : Tile 14 Pedestrian Left 3 got Deactivated by Gaze
+2021-08-26 16:32:56.292 : ReactionTimeLogger : Reaction time between entering Ball takeover Area and user intervention was 2824.683 ms
+2021-08-26 16:32:56.293 : ReactionTimeLogger : Reaction time between entering Ball hazard Area and user intervention was 2824.537 ms
+2021-08-26 16:32:56.293 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:32:58.733 : WalkPedestrian : Tile 14 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:32:59.903 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:33:04.050 : SimpleCarController : Span next pressed
+2021-08-26 16:33:04.054 : SpanTask : Consonant: q
+2021-08-26 16:33:05.055 : SpanTask : Question: ( 7 - 4 ) × 4 = 13 isTrue: 0
+2021-08-26 16:33:10.432 : SimpleCarController : Span next pressed
+2021-08-26 16:33:10.448 : SpanTask : Consonant: w
+2021-08-26 16:33:11.446 : SpanTask : Question: ( 8 - 2 ) × 4 = 28 isTrue: 0
+2021-08-26 16:33:14.181 : WalkPedestrian : Tile 17 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:33:14.689 : WalkPedestrian : Tile 18 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:33:16.086 : SimpleCarController : Span next pressed
+2021-08-26 16:33:16.114 : SpanTask : Consonant: f
+2021-08-26 16:33:17.112 : SpanTask : Please repeat the last 5 consonants:  v n q w f
+2021-08-26 16:33:19.566 : WalkPedestrian : Tile 18 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:33:22.487 : WalkPedestrian : Tile 18 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:33:26.833 : WalkPedestrian : Tile 19 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:33:31.045 : WalkPedestrian : Tile 20 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:33:32.039 : WalkPedestrian : Tile 20 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:33:33.616 : WalkPedestrian : Tile 20 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:33:33.786 : WalkPedestrian : Tile 20 Pedestrian Left 3 got Deactivated by Gaze
+2021-08-26 16:33:34.158 : WalkPedestrian : Tile 20 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:33:37.979 : WalkPedestrian : Tile 20 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:33:39.467 : SimpleCarController : Span next pressed
+2021-08-26 16:33:39.480 : SpanTask : Question: ( 9 - 3 ) × 5 = 34 isTrue: 0
+2021-08-26 16:33:41.771 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:33:43.864 : WalkPedestrian : Tile 22 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:33:44.749 : WalkPedestrian : Tile 22 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:33:45.548 : WalkPedestrian : Tile 22 Pedestrian Left 2 got Deactivated by Gaze
+2021-08-26 16:33:46.096 : WalkPedestrian : Tile 22 Pedestrian Right 3 got Deactivated by Gaze
+2021-08-26 16:33:46.980 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:33:47.885 : WalkPedestrian : Tile 22 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:33:50.827 : WalkPedestrian : Tile 23 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:33:50.910 : WalkPedestrian : Tile 23 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:33:51.403 : ReactionTimeLogger : Reaction time between entering Ball takeover Area and user intervention was 1876.802 ms
+2021-08-26 16:33:51.403 : ReactionTimeLogger : Reaction time between entering Ball hazard Area and user intervention was 1876.905 ms
+2021-08-26 16:33:51.403 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:33:51.768 : OwnOnGaze : Tile 23 Hazard Ball got Deactivated by Gaze
+2021-08-26 16:33:51.814 : WalkPedestrian : Tile 23 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:33:51.953 : WalkPedestrian : Tile 23 Pedestrian Left 3 got Deactivated by Gaze
+2021-08-26 16:33:58.725 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:33:59.540 : WalkPedestrian : Tile 24 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:34:03.271 : WalkPedestrian : Tile 24 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:34:04.369 : SimpleCarController : Span next pressed
+2021-08-26 16:34:04.388 : SpanTask : Consonant: d
+2021-08-26 16:34:05.385 : SpanTask : Question: ( 9 - 6 ) × 5 = 15 isTrue: 1
+2021-08-26 16:34:05.455 : WalkPedestrian : Tile 25 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:34:08.900 : WalkPedestrian : Tile 25 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:34:08.951 : WalkPedestrian : Tile 25 Pedestrian Right 3 got Deactivated by Gaze
+2021-08-26 16:34:10.255 : SimpleCarController : Span next pressed
+2021-08-26 16:34:10.275 : SpanTask : Consonant: q
+2021-08-26 16:34:11.276 : SpanTask : Question: ( 3 + 7 ) × 1 = 10 isTrue: 1
+2021-08-26 16:34:15.709 : SimpleCarController : Span next pressed
+2021-08-26 16:34:15.721 : SpanTask : Consonant: z
+2021-08-26 16:34:16.721 : SpanTask : Question: ( 1 + 3 ) × 4 = 16 isTrue: 1
+2021-08-26 16:34:19.330 : WalkPedestrian : Tile 27 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:34:19.450 : WalkPedestrian : Tile 27 Pedestrian Right 3 got Deactivated by Gaze
+2021-08-26 16:34:20.861 : SimpleCarController : Span next pressed
+2021-08-26 16:34:20.869 : SpanTask : Consonant: w
+2021-08-26 16:34:21.868 : SpanTask : Question: ( 3 + 5 ) × 1 = 3 isTrue: 0
+2021-08-26 16:34:22.135 : WalkPedestrian : Tile 27 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:34:26.744 : SimpleCarController : Span next pressed
+2021-08-26 16:34:26.749 : SpanTask : Consonant: x
+2021-08-26 16:34:27.754 : SpanTask : Please repeat the last 5 consonants:  d q z w x
+2021-08-26 16:34:30.338 : WalkPedestrian : Tile 29 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:34:30.551 : WalkPedestrian : Tile 28 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:34:31.381 : WalkPedestrian : Tile 29 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:34:31.452 : WalkPedestrian : Tile 29 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:34:32.105 : WalkPedestrian : Tile 29 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:34:33.305 : WalkPedestrian : Tile 29 Pedestrian Right 3 got Deactivated by Gaze
+2021-08-26 16:34:34.152 : WalkPedestrian : Tile 29 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:34:35.526 : WalkPedestrian : Tile 29 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:34:36.147 : SimpleCarController : Span next pressed
+2021-08-26 16:34:36.172 : SpanTask : Question: ( 3 + 6 ) × 2 = 13 isTrue: 0
+2021-08-26 16:34:39.019 : SimpleCarController : Span next pressed
+2021-08-26 16:34:39.028 : SpanTask : Consonant: f
+2021-08-26 16:34:40.031 : SpanTask : Question: ( 2 + 4 ) × 4 = 24 isTrue: 1
+2021-08-26 16:34:41.091 : WalkPedestrian : Tile 30 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:34:44.733 : WalkPedestrian : Tile 31 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:34:44.946 : WalkPedestrian : Tile 31 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:34:49.190 : WalkPedestrian : Tile 31 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:34:50.196 : WalkPedestrian : Tile 32 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:34:50.585 : SimpleCarController : Span next pressed
+2021-08-26 16:34:50.597 : SpanTask : Consonant: l
+2021-08-26 16:34:51.602 : SpanTask : Question: ( 8 - 8 ) × 2 = 1 isTrue: 0
+2021-08-26 16:34:51.879 : WalkPedestrian : Tile 32 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:34:52.240 : WalkPedestrian : Tile 32 Pedestrian Left 3 got Deactivated by Gaze
+2021-08-26 16:34:54.135 : WalkPedestrian : Tile 32 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:34:54.369 : WalkPedestrian : Tile 32 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:34:54.990 : WalkPedestrian : Tile 32 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:34:54.990 : OwnOnGaze : Tile 32 Hazard RollingWheel got Deactivated by Gaze
+2021-08-26 16:34:56.203 : ReactionTimeLogger : Reaction time between entering RollingWheel takeover Area and user intervention was 2935.967 ms
+2021-08-26 16:34:56.204 : ReactionTimeLogger : Reaction time between entering RollingWheel hazard Area and user intervention was 2935.827 ms
+2021-08-26 16:34:56.204 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:34:58.326 : WalkPedestrian : Tile 33 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:34:59.297 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:35:05.287 : WalkPedestrian : Tile 34 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:35:05.440 : SimpleCarController : Span next pressed
+2021-08-26 16:35:05.443 : SpanTask : Consonant: w
+2021-08-26 16:35:06.445 : SpanTask : Question: ( 1 + 1 ) × 1 = 2 isTrue: 1
+2021-08-26 16:35:06.636 : WalkPedestrian : Tile 34 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:35:09.187 : WalkPedestrian : Tile 35 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:35:10.160 : WalkPedestrian : Tile 35 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:35:10.258 : WalkPedestrian : Tile 35 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:35:10.285 : SimpleCarController : Span next pressed
+2021-08-26 16:35:10.300 : SpanTask : Consonant: q
+2021-08-26 16:35:11.302 : SpanTask : Question: ( 9 + 7 ) × 3 = 48 isTrue: 1
+2021-08-26 16:35:20.713 : SimpleCarController : Span next pressed
+2021-08-26 16:35:20.714 : SpanTask : Consonant: q
+2021-08-26 16:35:21.730 : SpanTask : Please repeat the last 5 consonants:  f l w q q
+2021-08-26 16:35:22.933 : WalkPedestrian : Tile 37 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:35:23.276 : WalkPedestrian : Tile 37 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:35:29.054 : WalkPedestrian : Tile 38 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:35:29.586 : WalkPedestrian : Tile 38 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:35:29.685 : WalkPedestrian : Tile 38 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:35:34.957 : WalkPedestrian : Tile 38 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:35:36.117 : SimpleCarController : Span next pressed
+2021-08-26 16:35:36.146 : SpanTask : Question: ( 2 + 3 ) × 1 = 5 isTrue: 1
+2021-08-26 16:35:36.395 : WalkPedestrian : Tile 39 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:35:39.257 : SimpleCarController : Span next pressed
+2021-08-26 16:35:39.264 : SpanTask : Consonant: w
+2021-08-26 16:35:40.269 : SpanTask : Question: ( 1 + 8 ) × 2 = 35 isTrue: 0
+2021-08-26 16:35:44.032 : SimpleCarController : Span next pressed
+2021-08-26 16:35:44.036 : SpanTask : Consonant: w
+2021-08-26 16:35:45.052 : SpanTask : Question: ( 8 - 4 ) × 5 = 20 isTrue: 1
+2021-08-26 16:35:48.910 : WalkPedestrian : Tile 41 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:35:49.784 : SimpleCarController : Span next pressed
+2021-08-26 16:35:49.788 : SpanTask : Consonant: q
+2021-08-26 16:35:50.784 : SpanTask : Question: ( 2 + 2 ) × 2 = 8 isTrue: 1
+2021-08-26 16:35:52.865 : OwnOnGaze : Tile 41 Hazard Bus got Deactivated by Gaze
+2021-08-26 16:35:53.253 : ReactionTimeLogger : Reaction time between entering Bus takeover Area and user intervention was 2980.572 ms
+2021-08-26 16:35:53.253 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:35:53.253 : ReactionTimeLogger : Reaction time between entering Bus hazard Area and user intervention was 2980.466 ms
+2021-08-26 16:35:58.733 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:36:02.413 : SimpleCarController : Span next pressed
+2021-08-26 16:36:02.424 : SpanTask : Consonant: w
+2021-08-26 16:36:03.447 : SpanTask : Question: ( 4 + 3 ) × 4 = 28 isTrue: 1
+2021-08-26 16:36:04.935 : WalkPedestrian : Tile 43 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:36:07.818 : WalkPedestrian : Tile 43 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:36:13.433 : SimpleCarController : Span next pressed
+2021-08-26 16:36:13.443 : SpanTask : Consonant: t
+2021-08-26 16:36:14.460 : SpanTask : Please repeat the last 5 consonants:  w w q w t
+2021-08-26 16:36:15.358 : WalkPedestrian : Tile 44 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:36:17.439 : WalkPedestrian : Tile 45 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:36:17.910 : WalkPedestrian : Tile 45 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:36:18.163 : WalkPedestrian : Tile 45 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:36:18.511 : WalkPedestrian : Tile 45 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:36:21.018 : WalkPedestrian : Tile 45 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:36:23.356 : WalkPedestrian : Tile 46 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:36:24.327 : WalkPedestrian : Tile 46 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:36:24.741 : WalkPedestrian : Tile 46 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:36:25.632 : WalkPedestrian : Tile 46 Pedestrian Right 3 got Deactivated by Gaze
+2021-08-26 16:36:25.906 : WalkPedestrian : Tile 46 Pedestrian Left 2 got Deactivated by Gaze
+2021-08-26 16:36:25.906 : WalkPedestrian : Tile 46 Pedestrian Left 3 got Deactivated by Gaze
+2021-08-26 16:36:27.385 : WalkPedestrian : Tile 46 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:36:27.761 : SimpleCarController : Span next pressed
+2021-08-26 16:36:27.765 : SpanTask : Question: ( 4 + 9 ) × 2 = 26 isTrue: 1
+2021-08-26 16:36:31.941 : SimpleCarController : Span next pressed
+2021-08-26 16:36:31.962 : SpanTask : Consonant: m
+2021-08-26 16:36:32.968 : SpanTask : Question: ( 7 + 2 ) × 2 = 18 isTrue: 1
+2021-08-26 16:36:38.132 : WalkPedestrian : Tile 48 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:36:38.362 : SimpleCarController : Span next pressed
+2021-08-26 16:36:38.364 : SpanTask : Consonant: n
+2021-08-26 16:36:38.505 : WalkPedestrian : Tile 48 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:36:39.369 : SpanTask : Question: ( 7 - 3 ) × 4 = 16 isTrue: 1
+2021-08-26 16:36:39.620 : WalkPedestrian : Tile 48 Pedestrian Left 5 got Deactivated by Gaze
+2021-08-26 16:36:40.998 : WalkPedestrian : Tile 48 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:36:43.708 : SimpleCarController : Span next pressed
+2021-08-26 16:36:43.725 : SpanTask : Consonant: n
+2021-08-26 16:36:44.730 : SpanTask : Question: ( 1 + 5 ) × 4 = 24 isTrue: 1
+2021-08-26 16:36:50.155 : SimpleCarController : Span next pressed
+2021-08-26 16:36:50.176 : SpanTask : Consonant: w
+2021-08-26 16:36:51.190 : SpanTask : Question: ( 5 - 1 ) × 1 = 6 isTrue: 0
+2021-08-26 16:36:51.428 : WalkPedestrian : Tile 50 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:36:54.776 : OwnOnGaze : Tile 50 Hazard RollingWheel got Deactivated by Gaze
+2021-08-26 16:36:54.977 : WalkPedestrian : Tile 50 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:36:55.666 : ReactionTimeLogger : Reaction time between entering RollingWheel takeover Area and user intervention was 2805.895 ms
+2021-08-26 16:36:55.667 : ReactionTimeLogger : Reaction time between entering RollingWheel hazard Area and user intervention was 2805.985 ms
+2021-08-26 16:36:55.667 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:37:01.272 : WalkPedestrian : Tile 51 Pedestrian Left 3 got Deactivated by Gaze
+2021-08-26 16:37:02.493 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:37:02.506 : WalkPedestrian : Tile 51 Pedestrian Right 3 got Deactivated by Gaze
+2021-08-26 16:37:02.554 : WalkPedestrian : Tile 51 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:37:04.303 : WalkPedestrian : Tile 51 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:37:06.736 : SimpleCarController : Span next pressed
+2021-08-26 16:37:06.745 : SpanTask : Consonant: g
+2021-08-26 16:37:07.742 : SpanTask : Please repeat the last 5 consonants:  m n n w g
+2021-08-26 16:37:09.265 : WalkPedestrian : Tile 53 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:37:12.034 : WalkPedestrian : Tile 53 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:37:16.555 : SimpleCarController : Span next pressed
+2021-08-26 16:37:16.573 : SpanTask : Question: ( 6 - 1 ) × 1 = 6 isTrue: 0
+2021-08-26 16:37:18.793 : SimpleCarController : Span next pressed
+2021-08-26 16:37:18.815 : SpanTask : Consonant: z
+2021-08-26 16:37:19.812 : SpanTask : Question: ( 9 - 7 ) × 5 = 13 isTrue: 0
+2021-08-26 16:37:25.077 : SimpleCarController : Span next pressed
+2021-08-26 16:37:25.095 : SpanTask : Consonant: d
+2021-08-26 16:37:26.048 : WalkPedestrian : Tile 55 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:37:26.097 : SpanTask : Question: ( 8 + 3 ) × 2 = 21 isTrue: 0
+2021-08-26 16:37:30.373 : WalkPedestrian : Tile 55 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:37:32.662 : SimpleCarController : Span next pressed
+2021-08-26 16:37:32.687 : SpanTask : Consonant: w
+2021-08-26 16:37:33.680 : SpanTask : Question: ( 4 - 3 ) × 3 = 6 isTrue: 0
+2021-08-26 16:37:35.398 : WalkPedestrian : Tile 56 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:37:37.138 : ReactionTimeLogger : Reaction time between entering RollingWheel takeover Area and user intervention was 2083.336 ms
+2021-08-26 16:37:37.139 : ReactionTimeLogger : Reaction time between entering RollingWheel hazard Area and user intervention was 2083.42 ms
+2021-08-26 16:37:37.139 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:37:37.530 : OwnOnGaze : Tile 56 Hazard RollingWheel got Deactivated by Gaze
+2021-08-26 16:37:40.648 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:37:43.687 : SimpleCarController : Span next pressed
+2021-08-26 16:37:43.697 : SpanTask : Consonant: b
+2021-08-26 16:37:44.699 : SpanTask : Question: ( 1 + 5 ) × 4 = 24 isTrue: 1
+2021-08-26 16:37:45.597 : WalkPedestrian : Tile 58 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:37:50.004 : SimpleCarController : Span next pressed
+2021-08-26 16:37:50.017 : SpanTask : Consonant: k
+2021-08-26 16:37:51.034 : SpanTask : Please repeat the last 5 consonants:  z d w b k
+2021-08-26 16:37:52.164 : WalkPedestrian : Tile 59 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:37:52.217 : WalkPedestrian : Tile 59 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:37:52.504 : WalkPedestrian : Tile 59 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:37:54.685 : WalkPedestrian : Tile 59 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:37:57.749 : WalkPedestrian : Tile 60 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:37:58.309 : WalkPedestrian : Tile 60 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:37:58.489 : WalkPedestrian : Tile 60 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:38:01.641 : WalkPedestrian : Tile 60 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:38:03.060 : SimpleCarController : Span next pressed
+2021-08-26 16:38:03.068 : SpanTask : Question: ( 4 + 1 ) × 1 = 5 isTrue: 1
+2021-08-26 16:38:05.230 : SimpleCarController : Span next pressed
+2021-08-26 16:38:05.236 : SpanTask : Consonant: c
+2021-08-26 16:38:06.253 : SpanTask : Question: ( 9 - 3 ) × 2 = 17 isTrue: 0
+2021-08-26 16:38:09.471 : SimpleCarController : Span next pressed
+2021-08-26 16:38:09.476 : SpanTask : Consonant: q
+2021-08-26 16:38:10.467 : SpanTask : Question: ( 2 + 5 ) × 4 = 31 isTrue: 0
+2021-08-26 16:38:10.865 : WalkPedestrian : Tile 62 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:38:11.266 : WalkPedestrian : Tile 62 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:38:14.351 : SimpleCarController : Span next pressed
+2021-08-26 16:38:14.378 : SpanTask : Consonant: q
+2021-08-26 16:38:15.368 : SpanTask : Question: ( 9 - 2 ) × 4 = 23 isTrue: 0
+2021-08-26 16:38:16.766 : WalkPedestrian : Tile 63 Pedestrian Right 1 got Deactivated by Gaze
+2021-08-26 16:38:18.478 : WalkPedestrian : Tile 63 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:38:20.733 : WalkPedestrian : Tile 63 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:38:21.162 : SimpleCarController : Span next pressed
+2021-08-26 16:38:21.170 : SpanTask : Consonant: n
+2021-08-26 16:38:22.184 : SpanTask : Question: ( 6 + 4 ) × 1 = 12 isTrue: 0
+2021-08-26 16:38:23.444 : WalkPedestrian : Tile 64 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:38:27.168 : OwnOnGaze : Tile 64 Hazard Bus got Deactivated by Gaze
+2021-08-26 16:38:27.670 : ReactionTimeLogger : Reaction time between entering Bus takeover Area and user intervention was 2176.761 ms
+2021-08-26 16:38:27.671 : ReactionTimeLogger : Reaction time between entering Bus hazard Area and user intervention was 2176.858 ms
+2021-08-26 16:38:27.671 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:38:31.419 : WalkPedestrian : Tile 64 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:38:32.736 : WalkPedestrian : Tile 65 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:38:33.123 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:38:37.912 : SimpleCarController : Span next pressed
+2021-08-26 16:38:37.929 : SpanTask : Consonant: k
+2021-08-26 16:38:38.932 : SpanTask : Please repeat the last 5 consonants:  c q q n k
+2021-08-26 16:38:40.353 : WalkPedestrian : Tile 66 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:38:41.007 : WalkPedestrian : Tile 66 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:38:42.070 : WalkPedestrian : Tile 66 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:38:44.690 : WalkPedestrian : Tile 67 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:38:46.104 : WalkPedestrian : Tile 67 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:38:51.178 : SimpleCarController : Span next pressed
+2021-08-26 16:38:51.186 : SpanTask : Question: ( 3 + 4 ) × 4 = 23 isTrue: 0
+2021-08-26 16:38:52.940 : WalkPedestrian : Tile 68 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:38:57.060 : SimpleCarController : Span next pressed
+2021-08-26 16:38:57.074 : SpanTask : Consonant: f
+2021-08-26 16:38:58.092 : SpanTask : Question: ( 3 + 6 ) × 2 = 13 isTrue: 0
+2021-08-26 16:39:00.802 : SimpleCarController : Span next pressed
+2021-08-26 16:39:00.808 : SpanTask : Consonant: b
+2021-08-26 16:39:01.827 : SpanTask : Question: ( 3 - 3 ) × 2 = 0 isTrue: 1
+2021-08-26 16:39:05.247 : SimpleCarController : Span next pressed
+2021-08-26 16:39:05.263 : SpanTask : Consonant: b
+2021-08-26 16:39:06.273 : SpanTask : Question: ( 6 + 5 ) × 4 = 44 isTrue: 1
+2021-08-26 16:39:12.308 : WalkPedestrian : Tile 71 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:39:12.593 : SimpleCarController : Span next pressed
+2021-08-26 16:39:12.601 : SpanTask : Consonant: n
+2021-08-26 16:39:13.607 : SpanTask : Question: ( 6 + 3 ) × 5 = 45 isTrue: 1
+2021-08-26 16:39:19.356 : SimpleCarController : Span next pressed
+2021-08-26 16:39:19.381 : SpanTask : Consonant: x
+2021-08-26 16:39:20.399 : SpanTask : Please repeat the last 5 consonants:  f b b n x
+2021-08-26 16:39:22.159 : ReactionTimeLogger : Reaction time between entering Bus hazard Area and user intervention was 2337.08 ms
+2021-08-26 16:39:22.159 : ReactionTimeLogger : Reaction time between entering Bus takeover Area and user intervention was 2337 ms
+2021-08-26 16:39:22.159 : SimpleCarController : User intervention detected! Disabling Autopilot!
+2021-08-26 16:39:22.500 : OwnOnGaze : Tile 72 Hazard Bus got Deactivated by Gaze
+2021-08-26 16:39:27.845 : SimpleCarController : Autopilot has been activated
+2021-08-26 16:39:30.555 : SimpleCarController : Span next pressed
+2021-08-26 16:39:30.576 : SpanTask : Question: ( 9 + 2 ) × 2 = 22 isTrue: 1
+2021-08-26 16:39:30.674 : WalkPedestrian : Tile 73 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:39:33.361 : SimpleCarController : Span next pressed
+2021-08-26 16:39:33.374 : SpanTask : Consonant: m
+2021-08-26 16:39:34.376 : SpanTask : Question: ( 8 - 2 ) × 3 = 16 isTrue: 0
+2021-08-26 16:39:39.108 : SimpleCarController : Span next pressed
+2021-08-26 16:39:39.110 : SpanTask : Consonant: p
+2021-08-26 16:39:40.128 : SpanTask : Question: ( 9 + 2 ) × 2 = 22 isTrue: 1
+2021-08-26 16:39:40.711 : WalkPedestrian : Tile 75 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:39:43.454 : WalkPedestrian : Tile 76 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:39:43.722 : SimpleCarController : Span next pressed
+2021-08-26 16:39:43.733 : SpanTask : Consonant: p
+2021-08-26 16:39:44.749 : SpanTask : Question: ( 9 - 4 ) × 5 = 25 isTrue: 1
+2021-08-26 16:39:47.352 : WalkPedestrian : Tile 76 Pedestrian Left 4 got Deactivated by Gaze
+2021-08-26 16:39:50.002 : SimpleCarController : Span next pressed
+2021-08-26 16:39:50.018 : SpanTask : Consonant: d
+2021-08-26 16:39:51.016 : SpanTask : Question: ( 9 + 4 ) × 3 = 35 isTrue: 0
+2021-08-26 16:39:51.866 : WalkPedestrian : Tile 76 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:39:57.544 : WalkPedestrian : Tile 77 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:40:00.004 : SimpleCarController : Span next pressed
+2021-08-26 16:40:00.012 : SpanTask : Consonant: k
+2021-08-26 16:40:00.238 : WalkPedestrian : Tile 78 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:40:01.017 : SpanTask : Please repeat the last 5 consonants:  m p p d k
+2021-08-26 16:40:06.220 : WalkPedestrian : Tile 79 Pedestrian Left 1 got Deactivated by Gaze
+2021-08-26 16:40:07.128 : WalkPedestrian : Tile 79 Pedestrian Right 2 got Deactivated by Gaze
+2021-08-26 16:40:09.497 : SimpleCarController : Span next pressed
+2021-08-26 16:40:09.509 : SpanTask : Question: ( 9 + 1 ) × 3 = 30 isTrue: 1
+2021-08-26 16:40:11.753 : WalkPedestrian : Tile 79 Pedestrian Right 4 got Deactivated by Gaze
+2021-08-26 16:40:11.770 : SimpleCarController : Span next pressed
+2021-08-26 16:40:11.770 : SpanTask : Consonant: k
+2021-08-26 16:40:12.766 : SpanTask : Question: ( 5 - 2 ) × 2 = 3 isTrue: 0
+2021-08-26 16:40:16.744 : SimpleCarController : Span next pressed
+2021-08-26 16:40:16.746 : SpanTask : Consonant: q
+2021-08-26 16:40:17.650 : EndCollider : Condition ended
+2021-08-26 16:40:17.702 : SimpleCarController : AppQuit triggered
