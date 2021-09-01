@@ -1,0 +1,13 @@
+participant,condition,task,correct_char_1,correct_char_2,correct_char_3,correct_char_4,correct_char_5,given_char_1,given_char_2,given_char_3,given_char_4,given_char_5,correct_bool_1,correct_bool_2,correct_bool_3,correct_bool_4,correct_bool_5,given_bool_1,given_bool_2,given_bool_3,given_bool_4,given_bool_5
+9,5,1,g,k,t,p,q,,,,,,1,0,1,0,1,,,,,
+9,5,2,g,r,l,n,d,,,,,,0,0,1,1,1,,,,,
+9,5,3,c,x,q,v,r,,,,,,0,0,1,0,0,,,,,
+9,5,4,q,q,k,q,d,,,,,,0,0,1,0,1,,,,,
+9,5,5,s,k,s,z,f,,,,,,1,1,0,1,1,,,,,
+9,5,6,p,m,n,v,q,,,,,,1,1,1,0,1,,,,,
+9,5,7,r,m,l,f,q,,,,,,0,0,0,0,1,,,,,
+9,5,8,f,s,s,g,j,,,,,,1,0,0,1,0,,,,,
+9,5,9,b,x,x,d,r,,,,,,1,0,0,1,0,,,,,
+9,5,10,w,f,n,w,s,,,,,,0,1,1,1,1,,,,,
+9,2,11,s,m,s,h,j,,,,,,1,1,1,1,0,,,,,
+9,1,12,l,n,p,k,m,,,,,,1,1,1,1,1,,,,,
