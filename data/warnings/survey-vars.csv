@@ -1,0 +1,81 @@
+"VAR","LABEL","TYPE","INPUT","QUESTION"
+"CASE","Interview-Nummer (fortlaufend)","METRIC","SYSTEM",
+"SERIAL","Seriennummer (sofern verwendet)","TEXT","SYSTEM",
+"REF","Referenz (sofern im Link angegeben)","TEXT","SYSTEM",
+"QUESTNNR","Fragebogen, der im Interview verwendet wurde","TEXT","SYSTEM",
+"MODE","Interview-Modus","TEXT","SYSTEM",
+"LANGUAGE","Sprache","TEXT","SYSTEM",
+"STARTED","Zeitpunkt zu dem das Interview begonnen hat (Europe/Berlin)","TIME","SYSTEM",
+"DALI_ATTENTION","DALI-TLX ATTE: gering/hoch","ORDINAL","SCALE","Aufwand an Aufmerksamkeit"
+"DALI_VISUAL","DALI-TLX VISU: gering/hoch","ORDINAL","SCALE","Visuelle Anforderung"
+"DALI_AUDITORY","DALI-TLX AUDI: gering/hoch","ORDINAL","SCALE","Auditive Anforderung"
+"DALI_TIME","DALI-TLX TIME: gering/hoch","ORDINAL","SCALE","Zeitliche Anforderung"
+"DALI_INTERFERENCE","DALI-TLX INTE: gering/hoch","ORDINAL","SCALE","Störung"
+"DALI_SITUATIONALSTRESS","DALI-TLX STRE: gering/hoch","ORDINAL","SCALE","Situativer Stress"
+"UX_POS","PosNeg: ...positiv","ORDINAL","SCALE","Wie positiv bzw. negativ würden Sie die Fahrt bewerten?"
+"UX_NEG","PosNeg: ...negativ","ORDINAL","SCALE","Wie positiv bzw. negativ würden Sie die Fahrt bewerten?"
+"ATI_01","ATI: Ich beschäftige mich gern genauer mit technischen Systemen.","ORDINAL","SCALE","Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an."
+"ATI_02","ATI: Ich probiere gern die Funktionen neuer technischer Systeme aus.","ORDINAL","SCALE","Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an."
+"ATI_03","ATI: In erster Linie beschäftige ich mich mit technischen Systemen, weil ich muss.","ORDINAL","SCALE","Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an."
+"ATI_04","ATI: Wenn ich ein neues technisches System vor mir habe, probiere ich es intensiv aus.","ORDINAL","SCALE","Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an."
+"ATI_05","ATI: Ich verbringe sehr gern Zeit mit dem Kennenlernen eine neuen technischen Systems.","ORDINAL","SCALE","Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an."
+"ATI_06","ATI: Es genügt mir, dass ein technisches System funktioniert, mir ist es egal, wie oder warum.","ORDINAL","SCALE","Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an."
+"ATI_07","ATI: Ich versuche zu verstehen, wie ein technisches System genau funktioniert.","ORDINAL","SCALE","Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an."
+"ATI_08","ATI: Es genügt mir, die Grundfunktionen eines technischen Systems zu kennen.","ORDINAL","SCALE","Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an."
+"ATI_09","ATI: Ich versuche, die Möglichkeiten eines technischen Systems vollständig auszunutzen.","ORDINAL","SCALE","Bitte geben Sie den Grad Ihrer Zustimmung zu folgenden Aussagen an."
+"DX_YRS","FE_Jahre:  ... Jahre","TEXT","OPEN","Wie lange besitzen Sie schon einen Pkw-Führerschein?"
+"DX_KMA","FE_km","NOMINAL","SELECTION","Wie viele Kilometer fahren Sie durchschnittlich im Jahr?"
+"TX_01","TechExperience: Fahrerassistenzsysteme (ACC, Spurehalteassistent)","ORDINAL","SCALE","Bitte geben Sie an, inwieweit Sie mit den folgenden Technologien vertraut sind."
+"TX_02","TechExperience: VR-Brillen","ORDINAL","SCALE","Bitte geben Sie an, inwieweit Sie mit den folgenden Technologien vertraut sind."
+"TX_03","TechExperience: 3D-Anwendungen (z.B. Computerspiele, CAD-Programme, ...)","ORDINAL","SCALE","Bitte geben Sie an, inwieweit Sie mit den folgenden Technologien vertraut sind."
+"Gender","Geschlecht","NOMINAL","SELECTION","Welches Geschlecht beschreibt Sie am besten?"
+"Age","Alter (direkt): Ich bin   ... Jahre","METRIC","OPEN","Wie alt sind Sie?"
+"OCCUP","Beschäftigung (offen): [01]","TEXT","OPEN","Welcher Beschäftigung gehen Sie nach?"
+"open","Anmerkungen (offen): [01]","TEXT","OPEN","Möchten Sie zu dieser Befragung oder zum besseren Verständnis Ihrer Antworten noch etwas anmerken? (optional)"
+"HUD_01","HUD: Das HUD hat mich von der Nebenaufgabe abgelenkt.","ORDINAL","SCALE","Bitte bewerten Sie das Head-Up Display (HUD) während der Fahrt."
+"HUD_02","HUD: Das HUD hat mir geholfen, den Übernahmeaufforderungen nachzukommen.","ORDINAL","SCALE","Bitte bewerten Sie das Head-Up Display (HUD) während der Fahrt."
+"HUD_03","HUD: Das HUD hat mir geholfen, die Fahrumgebung wahrzunehmen.","ORDINAL","SCALE","Bitte bewerten Sie das Head-Up Display (HUD) während der Fahrt."
+"HUD_04","HUD: Das HUD hat mir geholfen, die Fahrumgebung zu verstehen.","ORDINAL","SCALE","Bitte bewerten Sie das Head-Up Display (HUD) während der Fahrt."
+"HUD_05","HUD: Das HUD hat mir geholfen, die Fahrumgebung vorauszusehen.","ORDINAL","SCALE","Bitte bewerten Sie das Head-Up Display (HUD) während der Fahrt."
+"HUD_06","HUD: Das HUD hat mir geholfen, zu wissen was das Fahrzeug weiß.","ORDINAL","SCALE","Bitte bewerten Sie das Head-Up Display (HUD) während der Fahrt."
+"HUD_07","HUD: Ich konnte dem HUD vertrauen.","ORDINAL","SCALE","Bitte bewerten Sie das Head-Up Display (HUD) während der Fahrt."
+"HUD_08","HUD: Das HUD gab mir ein Gefühl der Sicherheit.","ORDINAL","SCALE","Bitte bewerten Sie das Head-Up Display (HUD) während der Fahrt."
+"VS01_09","HUD: Ich würde das HUD nutzen.","ORDINAL","SCALE","Bitte bewerten Sie das Head-Up Display (HUD) während der Fahrt."
+"PREF_STRAT_0","Warning Strategy Preference: Keine Warnungen","ORDINAL","SCALE","Wir würden Sie die einzelnen Warnstrategien bewerten?"
+"PREF_STRAT_1","Warning Strategy Preference: Warnungen während der Übernahme","ORDINAL","SCALE","Wir würden Sie die einzelnen Warnstrategien bewerten?"
+"PREF_STRAT_2","Warning Strategy Preference: Dauerhafte Warnungen","ORDINAL","SCALE","Wir würden Sie die einzelnen Warnstrategien bewerten?"
+"PREF_GAZE_0","Gaze-Adaptivity Preference: während der Übernahme","ORDINAL","SCALE","Wie bewerten Sie den Blick-basierten Warnmechnismus?"
+"PREF_GAZE_1","Gaze-Adaptivity Preference: dauerhaft","ORDINAL","SCALE","Wie bewerten Sie den Blick-basierten Warnmechnismus?"
+"ID01","Participant ID","NOMINAL","SELECTION","Probandennummer"
+"ID02","Condition ID","NOMINAL","SELECTION","Versuchsbedingung"
+"IPQ_G1","IPQ_G1: In der computererzeugten Welt hatte ich den Eindruck, dort gewesen zu sein...","ORDINAL","SCALE",
+"IPQ_SP1","IPQ_SP1: Ich hatte das Gefühl, daß die virtuelle Umgebung hinter mir weitergeht.","ORDINAL","SCALE",
+"IPQ_SP2","IPQ_SP2: Ich hatte das Gefühl, nur Bilder zu sehen.","ORDINAL","SCALE",
+"IPQ_SP3","IPQ_SP3: Ich hatte nicht das Gefühl, in dem virtuellen Raum zu sein.","ORDINAL","SCALE",
+"IPQ_SP4","IPQ_SP4: Ich hatte das Gefühl, in dem virtuellen Raum zu handeln statt etwas von außen zu bedienen.","ORDINAL","SCALE",
+"IPQ_SP5","IPQ_SP5: Ich fühlte mich im virtuellen Raum anwesend.","ORDINAL","SCALE",
+"IPQ_INV1","IPQ_INV1: Wie bewußt war Ihnen die reale Welt, während Sie sich durch die virtuelle Welt bewegten (z.B. Geräusche, Raumtemperatur, andere Personen etc.)?","ORDINAL","SCALE",
+"IPQ_INV2","IPQ_INV2: Meine reale Umgebung war mir nicht mehr bewußt.","ORDINAL","SCALE",
+"IPQ_INV3","IPQ_INV3: Ich achtete noch auf die reale Umgebung.","ORDINAL","SCALE",
+"IPQ_INV4","IPQ_INV4: Meine Aufmerksamkeit war von der virtuellen Welt völlig in Bann gezogen.","ORDINAL","SCALE",
+"IPQ_REAL1","IPQ_REAL1: Wie real erschien Ihnen die virtuelle Umgebung?","ORDINAL","SCALE",
+"IPQ_REAL2","IPQ_REAL2: Wie sehr glich Ihr Erleben der virtuellen Umgebung dem Erleben einer realen Umgebung?","ORDINAL","SCALE",
+"IPQ_REAL3","IPQ_REAL3: Wie real erschien Ihnen die virtuelle Welt?","ORDINAL","SCALE",
+"IPQ_REAL4","IPQ_REAL4: Die virtuelle Welt erschien mir wirklicher als die reale Welt.","ORDINAL","SCALE",
+"TIME001","Verweildauer Seite 1","METRIC","SYSTEM",
+"TIME002","Verweildauer Seite 2","METRIC","SYSTEM",
+"TIME003","Verweildauer Seite 3","METRIC","SYSTEM",
+"TIME004","Verweildauer Seite 4","METRIC","SYSTEM",
+"TIME005","Verweildauer Seite 5","METRIC","SYSTEM",
+"TIME006","Verweildauer Seite 6","METRIC","SYSTEM",
+"TIME_SUM","Verweildauer gesamt (ohne Ausreißer)","METRIC","SYSTEM",
+"MAILSENT","Versandzeitpunkt der Einladungsmail (nur für nicht-anonyme Adressaten)","TIME","SYSTEM",
+"LASTDATA","Zeitpunkt als der Datensatz das letzte mal geändert wurde","TIME","SYSTEM",
+"FINISHED","Wurde die Befragung abgeschlossen (letzte Seite erreicht)?","BOOL","SYSTEM",
+"Q_VIEWER","Hat der Teilnehmer den Fragebogen nur angesehen, ohne die Pflichtfragen zu beantworten?","BOOL","SYSTEM",
+"LASTPAGE","Seite, die der Teilnehmer zuletzt bearbeitet hat","METRIC","SYSTEM",
+"MAXPAGE","Letzte Seite, die im Fragebogen bearbeitet wurde","METRIC","SYSTEM",
+"MISSING","Anteil fehlender Antworten in Prozent","METRIC","SYSTEM",
+"MISSREL","Anteil fehlender Antworten (gewichtet nach Relevanz)","METRIC","SYSTEM",
+"TIME_RSI","Maluspunkte für schnelles Ausfüllen","METRIC","SYSTEM",
+"DEG_TIME","Maluspunkte für schnelles Ausfüllen","METRIC","SYSTEM",
